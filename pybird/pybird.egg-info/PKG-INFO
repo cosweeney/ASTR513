@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: pybird
+Version: 0.2.0
+Summary: EFT predictions for biased tracers in redshift space.
+Author: Pierre Zhang and Guido D'Amico
+License: MIT
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Environment :: Console
+Classifier: Programming Language :: Python
+License-File: LICENSE
